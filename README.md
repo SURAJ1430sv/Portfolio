@@ -138,4 +138,57 @@ Make sure you have the following installed:
 ---
 
 ## 📂 Project Structure
+ArogyaSakhi/
+│
+├── client/ # Frontend (React + TypeScript)
+│ ├── src/
+│ │ ├── components/
+│ │ ├── pages/
+│ │ ├── assets/
+│ │ └── App.tsx
+│ └── package.json
+│
+├── server/ # Backend (Node + Express)
+│ ├── models/
+│ ├── routes/
+│ ├── controllers/
+│ └── server.js
+│
+├── .gitignore
+├── LICENSE
+└── README.md
+
+
+---
+
+## 🧑‍💻 Contributors
+
+**Suraj Deepak Vishwakarma**  
+GitHub: [@SURAJ1430sv](https://github.com/SURAJ1430sv)
+
+---
+
+## 🔮 Future Enhancements
+
+- 🩺 Integration with wearable health devices  
+- 🤖 AI-driven health predictions and chatbots  
+- 📱 Mobile app using React Native  
+- 🧾 Prescription & report uploads  
+- 🔔 Real-time notifications for appointments  
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](MIT) file for details.
+
+---
+
+## 🌟 Support & Feedback
+
+If you found this project useful, please give it a ⭐ on GitHub!  
+Feel free to raise issues or suggest new features via the [Issues](https://github.com/SURAJ1430sv/ArogyaSakhi/issues) tab.
+
+---
 
