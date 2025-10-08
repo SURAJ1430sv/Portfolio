@@ -42,13 +42,27 @@ The primary goal of **ArogyaSakhi** is to:
 
 ## ✨ Key Features and 🖼️ Screenshots
 
-* **User Authentication:** Secure registration and login for both doctors and patients.  
-* **Appointment Scheduling:** Book, manage, and cancel online consultations.  
-* **Health Dashboard:** Track medical history, prescriptions, and doctor feedback.  
-* **Health Education Module:** Access verified articles and preventive health tips.  
-* **Doctor Management:** View, approve, and manage doctor profiles and availability.  
-* **Responsive UI:** Optimized for desktop, tablet, and mobile devices.  
+* **User Authentication:** Secure registration and login for both doctors and patients.
+* <img width="1783" height="876" alt="image" src="https://github.com/user-attachments/assets/e0395a09-600e-404f-91af-11b081ff9f88" />
+
+* **Appointment Scheduling:** Book, manage, and cancel online consultations.
+* <img width="1787" height="880" alt="image" src="https://github.com/user-attachments/assets/894b3897-d314-41bd-bdfa-555660e0cfaa" />
+ 
+* **Health Dashboard:** Track medical history, prescriptions, and doctor feedback.
+* <img width="1790" height="877" alt="image" src="https://github.com/user-attachments/assets/7b676a30-d934-4855-9243-8de2d5af9f24" />
+
+* **Health Education Module:** Access verified articles and preventive health tips.
+* <img width="1697" height="878" alt="image" src="https://github.com/user-attachments/assets/db3b8f44-af11-4b13-8c89-1e75cc5f0b8f" />
+
+* **Doctor Management:** View, approve, and manage doctor profiles and availability.
+* <img width="576" height="672" alt="image" src="https://github.com/user-attachments/assets/b3138b93-9fd7-4a04-aa03-8524e4192abd" />
+
+* **Responsive UI:** Optimized for desktop, tablet, and mobile devices.
+* <img width="1782" height="867" alt="image" src="https://github.com/user-attachments/assets/5103a3c7-7b38-4254-9328-fe3e6f25c82d" />
+
 * **Secure Data Handling:** All health data stored safely with authentication and encryption.
+* <img width="798" height="688" alt="image" src="https://github.com/user-attachments/assets/e095ca42-6cea-41eb-93cf-0f2f44d0c6bf" />
+
 
 
 ---
